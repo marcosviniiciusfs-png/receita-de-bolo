@@ -38,7 +38,7 @@ Prompt recomendado:
 Use $skill-modernizacao para modernizar este simulador no padrao AMX com inercia 0.055.
 ```
 
-### bolo premio skill
+### bolo prêmium
 
 Skill premium para deixar o site com a versao mais intensa e cinematica do padrao AMX, incluindo a inercia mais forte da primeira versao aprovada.
 
