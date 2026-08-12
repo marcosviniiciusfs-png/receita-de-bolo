@@ -1,0 +1,4 @@
+interface:
+  display_name: "skill_modernização"
+  short_description: "Moderniza simuladores no padrão AMX"
+  default_prompt: "Use $skill-modernizacao para modernizar este simulador no padrão AMX com inércia 0.055."

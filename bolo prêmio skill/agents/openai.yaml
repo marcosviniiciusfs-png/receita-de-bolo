@@ -1,0 +1,4 @@
+interface:
+  display_name: "Modernize Simulator Site"
+  short_description: "Upgrade crude simulators into polished flows"
+  default_prompt: "Use $modernize-simulator-site to transform this old simulator into the polished AMX-style flow."

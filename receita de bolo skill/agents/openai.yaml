@@ -1,0 +1,4 @@
+interface:
+  display_name: "Receita de Bolo Site"
+  short_description: "Reconstrói sites a partir de pastas de cliente"
+  default_prompt: "Use $receita-de-bolo-site para analisar esta pasta de cliente e reconstruir o site do zero seguindo a receita."
