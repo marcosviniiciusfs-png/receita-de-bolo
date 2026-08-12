@@ -56,6 +56,24 @@ Prompt recomendado:
 Use $modernize-simulator-site para transformar este simulador antigo no modelo premium AMX.
 ```
 
+### bolo mais humano
+
+Skill para humanizar textos e tirar cara de IA das copies, mantendo os fatos do cliente.
+
+Use depois que o site/simulador ja estiver montado e com as informacoes corretas.
+
+Prompt recomendado:
+
+```text
+Use $humanizer para humanizar este texto, mantendo os fatos e sem inventar informacoes:
+```
+
+Guia da pasta:
+
+```text
+bolo mais humano/GUIA_DE_USO.md
+```
+
 ## Como Usar
 
 Copie a pasta da skill desejada para a pasta de skills do ambiente da equipe, ou aponte a IA diretamente para o `SKILL.md` da pasta escolhida.
