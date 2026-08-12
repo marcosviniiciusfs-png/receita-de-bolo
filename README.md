@@ -2,6 +2,12 @@
 
 Repositorio publico com skills reutilizaveis para reconstruir e modernizar sites/simuladores de clientes.
 
+## Guia Do Simulador Do Zero
+
+Leia este guia para entender o fluxo completo de um simulador: site, formulario, webhook, Meta Pixel, Meta CAPI, pagina de conversao, Worker/API, Cloudflare, subdominio, testes e deploy.
+
+[GUIA_SIMULADOR_DO_ZERO.md](GUIA_SIMULADOR_DO_ZERO.md)
+
 ## Pastas
 
 ### receita de bolo skill
